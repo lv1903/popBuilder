@@ -1,0 +1,135 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+
+
+
+.table .webix_hcell, .webix_column  {
+  text-align: center;
+}
+
+
+
+
+
+#popPyramid {
+  width: 400px;
+  height: 400px;
+}
+
+
+.axis line,
+.axis path {
+  shape-rendering: crispEdges;
+  fill: transparent;
+  stroke: #555;
+}
+
+
+.clickable {
+  cursor: pointer;
+}
+
+#map{
+  height: 100%;
+  width: 100%;
+}
+
+.entity_button_cell{
+  padding: 0px;
+  background-color: white;
+}
+
+.addbtn {
+  position: relative;
+  left: -9px;
+  top: -1px;
+  height: 100%;
+  width: 80px;
+  color: white;
+  background-color: #33a02c;
+  border: 1px solid #33a02c;
+}
+.addbtn:hover {
+  background-color:#33a02c;
+}
+.addbtn:active {
+  position:relative;
+  top:1px;
+}
+
+
+.delbtn {
+  position: relative;
+  left: -9px;
+  top: -1px;
+  height: 100%;
+  width: 80px;
+  color: white;
+  background-color: #e31a1c;
+  border: 1px solid #e31a1c;
+}
+.delbtn:hover {
+  background-color:#e31a1c;
+}
+.delbtn:active {
+  position:relative;
+  top:1px;
+}
+
+
+
+/*.addbtn {*/
+  /*background-color:#b2df8a;*/
+  /*-moz-border-radius:28px;*/
+  /*-webkit-border-radius:28px;*/
+  /*border-radius:28px;*/
+  /*border:1px solid #b2df8a;*/
+  /*display:inline-block;*/
+  /*cursor:pointer;*/
+  /*color:#ffffff;*/
+  /*font-family:Arial;*/
+  /*font-size:14px;*/
+  /*padding:4px 14px;*/
+  /*text-decoration:none;*/
+  /*text-shadow:0px 1px 0px #33a02c;*/
+/*}*/
+/*.addbtn:hover {*/
+  /*background-color:#33a02c;*/
+/*}*/
+/*.addbtn:active {*/
+  /*position:relative;*/
+  /*top:1px;*/
+/*}*/
+
+/*.delbtn {*/
+  /*background-color:#fb9a99;*/
+  /*-moz-border-radius:28px;*/
+  /*-webkit-border-radius:28px;*/
+  /*border-radius:28px;*/
+  /*border:1px solid #fb9a99;*/
+  /*display:inline-block;*/
+  /*cursor:pointer;*/
+  /*color:#ffffff;*/
+  /*font-family:Arial;*/
+  /*font-size:14px;*/
+  /*padding:4px 14px;*/
+  /*text-decoration:none;*/
+  /*text-shadow:0px 1px 0px #e31a1c;*/
+/*}*/
+/*.delbtn:hover {*/
+  /*background-color:#e31a1c;*/
+/*}*/
+/*.delbtn:active {*/
+  /*position:relative;*/
+  /*top:1px;*/
+/*}*/
+
+
+
